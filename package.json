@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "workspaces": [
+        "browser",
+        "build",
+        "cli",
+        "docs",
+        "example",
+        "server"
+    ],
+    "devDependencies": {
+        "lerna": "^2.5.1"
+    }
+}
